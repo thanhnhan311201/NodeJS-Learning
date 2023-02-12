@@ -16,7 +16,7 @@
 // - Ngoài ra TS còn hỗ trợ OOP mạnh mẽ hơn rất nhiều so với JS khi cung cấp các thuộc tính trong OOP như kế thừa, đóng gói,...
 // - Browser sẽ không chạy được TS nên chúng ta phải cần sử dụng TypeScript compiler. Chúng ta sẽ tải về hai thư viện
 // typescript và ts-node từ npm.
-// - Trong thư viện typescript sẽ cung cấp trình biên dịch tsc để biên dịch ts thành js rồi sau đó sử dụng note để chạy file
+// - Trong thư viện typescript sẽ cung cấp trình biên dịch tsc để biên dịch ts thành js rồi sau đó sử dụng node để chạy file
 // js như bình thường
 // Câu lệnh: tsc index.ts
 // - Thư viện ts-node sẽ giúp chúng ta thực thi trực tiếp file ts mà không cần thiết phải compile sang file js.

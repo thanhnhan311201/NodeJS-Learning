@@ -1,0 +1,16 @@
+{
+  "name": "improved-development-workflow-and-debugging",
+  "version": "1.0.0",
+  "description": "## NPM * npm stands for “Node Package Manager” and it allows you to manage your Node project and its dependencies * You can initialize a project and its dependencies * npm scripts can be defined in the package.json to give you “shortcuts” to common tasks / commands",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

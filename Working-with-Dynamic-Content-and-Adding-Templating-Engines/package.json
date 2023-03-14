@@ -1,0 +1,20 @@
+{
+  "name": "working-with-dynamic-content-and-adding-templating-engines",
+  "version": "1.0.0",
+  "description": "## Useful Resources & Links * [Pug Docs](https://pugjs.org/api/getting-started.html) * [Handlebars Docs](https://handlebarsjs.com/) * [EJS Docs](http://ejs.co/#docs)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2",
+    "nodemon": "^2.0.21",
+    "pug": "^3.0.2"
+  }
+}

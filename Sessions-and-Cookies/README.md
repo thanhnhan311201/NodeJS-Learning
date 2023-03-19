@@ -4,7 +4,7 @@
 
 - Great for storing data on the client (browser)
 - Do NOT store sensitive data here! It can be viewed + manipulated
-- Cookies can be configured to expire whe the browser is closed (Session Cookei) or when a certain age / expiry date is reached (Permanet Cookie)
+- Cookies can be configured to expire when the browser is closed (Session Cookie) or when a certain age / expiry date is reached (Permanet Cookie)
 - Works well together with sessions
 
 ## Session
@@ -13,7 +13,7 @@
 - Great for storing sensitive data that should survive across requests
 - You can sotre ANYTHING in sessions
 - Often used for storing user data / authetication status
-- Identified via Cookie (don't mistake this with the term 'Session Cookei')
+- Identified via Cookie (don't mistake this with the term 'Session Cookie')
 - You ca use different storages for saving your sessions on the server
 
 ## Useful Resources & Links

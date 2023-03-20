@@ -1,7 +1,7 @@
 {
-  "name": "adding-authentication",
+  "name": "advanced-authentication",
   "version": "1.0.0",
-  "description": "## Authentication",
+  "description": "## Password Resetting",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

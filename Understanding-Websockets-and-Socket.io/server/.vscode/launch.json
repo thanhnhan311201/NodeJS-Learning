@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\Understanding-Websockets-and-Socket.io\\server\\app.js"
+      "program": "${workspaceFolder}\\app.js"
     },
     {
       "type": "node",
